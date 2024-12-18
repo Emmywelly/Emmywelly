@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello!+I'm+Chukwuemeka+Wellington;Cyber+Security%2C+Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
-
 ---
 
 <!-- About Me Section -->
