@@ -57,11 +57,10 @@ I'm driven by innovation, automation, and creating impactful solutions for moder
 ---
 
 
-##  GitHub Stats:
-
+## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmywelly&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmywelly&theme=dark&hide_border=false)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Emmywelly&theme=dark&hide_border=false)
 
 
 ##  Most Used Languages:
