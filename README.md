@@ -11,7 +11,8 @@
 Hi there! 👋 I'm <strong>Chukwuemeka Wellington</strong>, a Cyber Security, Cloud, and DevOps Engineer passionate about delivering secure, scalable, and innovative solutions.
 </p>
 
-    <strong>Key Expertise:</strong>
+---
+ <strong>Key Expertise:</strong>
 
 - ☁️ **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP), AWS  
 - 🛠️ **Infrastructure as Code:** Terraform, Ansible  
