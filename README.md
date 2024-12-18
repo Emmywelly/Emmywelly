@@ -2,26 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello!+I'm+Chukwuemeka+Wellington;Cyber+Security%2C+Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
-<!-- About Me Section -->
-## 🚀 **About Me**
-Hi! 👋 I'm **Chukwuemeka Wellington**, a passionate Cyber/Cloud Security and DevOps Engineer with hands-on experience in:
-- ☁️ **Google Cloud Platform** , **Microsoft Azure** and **AWS**
-- 🛠️ **Infrastructure as Code** using **Terraform**  
-- 🚢 **Kubernetes** for container orchestration  
-- 🐙 **Git** for version control and collaborative workflows
-- 🖥️ **Visual Studio Code (VS Code)** for efficient development
-- 🐧 **Linux Systems** for system administration and troubleshooting
--  📊 **Monitoring and Observability** for implementing tools like **Datadog** and **Cockpit** to ensure system performance, visibility, and reliability.
-
 ---
 
+<!-- About Me Section -->
+<h2 align="center"> 🚀 About Me </h2>
 
+<p align="center">
+Hi there! 👋 I'm <strong>Chukwuemeka Wellington</strong>, a Cyber Security, Cloud, and DevOps Engineer passionate about delivering secure, scalable, and innovative solutions.
+</p>
 
-##  Socials:
+<strong>Key Expertise:</strong>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-wellington/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/WellingtonEmeka)
+- ☁️ **Cloud Platforms:** Microsoft Azure, Google Cloud Platform (GCP), AWS  
+- 🛠️ **Infrastructure as Code:** Terraform, Ansible  
+- 🚢 **Containerization:** Kubernetes, Docker  
+- 📊 **Monitoring Tools:** Splunk Enterprise, Datadog, Prometheus, Cockpit  
+- 🔒 **Cybersecurity:** Zero-trust frameworks, Identity management, Network security  
+- 🐧 **System Administration:** Linux automation and troubleshooting  
+- 🖥️ **DevOps:** CI/CD pipelines with GitHub Actions, Jenkins  
+- 💬 **Collaboration Tools:** Slack, Microsoft Teams  
 
+---
 
 ## 💻 *Tech Stack*
 <table align="center">
@@ -35,10 +36,24 @@ Hi! 👋 I'm **Chukwuemeka Wellington**, a passionate Cyber/Cloud Security and D
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux"/></td>
    <td align="center"><img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" alt="Datadog" /></td>
+   <td align="center"><img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk Enterprise"/></td>
    <td align="center"><img src="https://img.shields.io/badge/Cockpit-005CA9?style=flat&logoColor=white" alt="Cockpit"/></td>
+   <td align="center"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/></td>
  </tr>
 </table>
- 
+
+<p align="center">
+I'm driven by innovation, automation, and creating impactful solutions for modern cloud challenges. Let's build the future together! 🚀
+</p>
+
+---
+
+
+##  Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-wellington/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/WellingtonEmeka)
+
 ---
 
 
@@ -75,16 +90,7 @@ Hi! 👋 I'm **Chukwuemeka Wellington**, a passionate Cyber/Cloud Security and D
 
 
 
-
-
-
-
 <!---
 Emmywelly/Emmywelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
- 
