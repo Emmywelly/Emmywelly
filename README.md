@@ -62,20 +62,23 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmywelly&theme=dark&hide_border=false)
 
 
+---
 
 ##  Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmywelly&layout=compact&theme=dark)
 
+---
 
 ##  GitHub Trophies:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emmywelly&theme=darkhub&margin-w=15&margin-h=15)
 
+---
+
 ###  Top Contributed Repositories
 
-
-
+---
 <!-- Contact Section -->
 ## 📫 **Let's Connect**
 <p align="center">
