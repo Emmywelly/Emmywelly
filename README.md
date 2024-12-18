@@ -61,7 +61,7 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TutorIjy&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmywelly&show_icons=true&theme=dark&count_private=true)
 
 
 
