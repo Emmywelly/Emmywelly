@@ -43,7 +43,7 @@ Hi there! 👋 I'm <strong>Chukwuemeka Wellington</strong>, a Cyber Security, Cl
 </table>
 
 <p align="center">
-I'm driven by innovation, automation, and creating impactful solutions for modern cloud challenges. Let's build the future together! 🚀
+Driven by innovation, automation, and creating impactful solutions for modern cloud challenges. 
 </p>
 
 ---
