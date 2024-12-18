@@ -13,9 +13,7 @@ Throughout my career, I have gained extensive hands-on experience working with l
 
 I am driven by the desire to continuously improve cloud security, streamline processes through automation, and contribute to building resilient infrastructure that supports high-performance applications. Let's connect and collaborate to create innovative solutions that drive business success and digital transformation.
 
-
 ---
-
 
  <strong>Key Expertise:</strong>
 
