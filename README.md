@@ -83,6 +83,8 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 ---
 
 ###  Top Contributed Repositories
+![](https://komarev.com/ghpvc/?username=Emmywelly24&color=blue)
+
 
 ---
 <!-- Contact Section -->
