@@ -82,7 +82,13 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 
 ---
 
-###  Top Contributed Repositories
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Emmywelly&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Emmywelly&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://komarev.com/ghpvc/?username=Emmywelly24&color=blue)
 
 
