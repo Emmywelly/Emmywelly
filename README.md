@@ -56,6 +56,11 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-wellington/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/WellingtonEmeka)
 [![Medium](https://img.shields.io/badge/medium-%230077B5.svg?style=flat&logo=medium&logoColor=white)](https://https://medium.com/@emekawellington
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuemeka-wellington/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/WellingtonEmeka)  
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=flat&logo=medium&logoColor=white)](https://medium.com/@YourMediumHandle)
+
 ---
 
 
