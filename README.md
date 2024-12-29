@@ -88,7 +88,7 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 ---
 ## Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Emmywelly&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Emmywelly&label=Profile%20Views&color=6&icon=0&pretty=false)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
