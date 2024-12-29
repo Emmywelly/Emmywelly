@@ -86,9 +86,9 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 ![](https://github-contributor-stats.vercel.app/api?username=Emmywelly&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+## Profile Views
 
-### Profile Views
-[![](https://visitcount.itsvg.in/api?id=Emmywelly&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Emmywelly&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
