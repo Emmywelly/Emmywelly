@@ -77,19 +77,14 @@ Driven by innovation, automation, and creating impactful solutions for modern cl
 ---
 
 ##  GitHub Trophies:
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Emmywelly&theme=darkhub&margin-w=15&margin-h=15)
 
 ---
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Emmywelly&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ## Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Emmywelly&label=Profile%20Views&color=6&icon=0&pretty=false)
-
 ![](https://komarev.com/ghpvc/?username=stgreen24&color=blue)
 
 
